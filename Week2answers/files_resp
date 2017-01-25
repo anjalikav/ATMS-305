@@ -1,7 +1,0 @@
-1. The file type of my inittab is
-    inittab: ASCII English text
-2. The default mode of my computer is full multiuser mode. 
-#   3 - Full multiuser mode
-id:3:initdefault:
-
-3. 
