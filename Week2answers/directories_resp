@@ -1,0 +1,15 @@
+1. The command cd blah returns
+ -bash: cd: blah: No such file or directory
+2. The command cd .. moves back one directory
+	pwd displays current directory path
+3. I see a list of all the directories within the directory I am in.
+4. cd returns to my default directory, which is ~
+5. the command cd .. twice takes me back two directories
+6. This directory is my personal directory, which has just the directory 
+ATMS-305 within it, which I can see by typing in ls
+7. cd root returns an error, as the root directory is not one that I can 
+jump to without an exact path.  I only have access to the directories 
+within the one I am in.
+8. cd goes into the directory that is within the one I was just in.  I 
+could type cd . to stay where I am.
+  
